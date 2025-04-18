@@ -1,11 +1,11 @@
-## Hi there 👋
-
 <div align="center"> 
   <p>Visitor count</p>
   <img src="https://profile-counter.glitch.me/PascalWetzel/count.svg" alt="Visitor's Count" />
 </div>
 
 <img src="https://github.com/PascalWetzel/PascalWetzel/blob/main/github_banner.png" alt="Banner of a bioinformatics PhD student">
+
+## Hi there 👋
 
 <!--
 **PascalWetzel/PascalWetzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

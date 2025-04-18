@@ -9,7 +9,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=3CD6D1&duration=5000&lines=Hi+There!+👋;+I'm+Pascal!;" />
 </h1>
 
-### I am a bioinformatics PhD student interested in data sience and machine learning.
+### I am a bioinformatics PhD student interested in gene regulation, data sience and machine learning.
 
 - 👨‍💻 I’m currently working on detecting transcription factor footprints in single-cell data. 👣
 - 🏢 I’m curenntly working at the Max-Delbrück-Centrum for molecular medicine in Berlin. 🧬

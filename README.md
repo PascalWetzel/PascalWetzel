@@ -14,7 +14,8 @@
 - 👨‍💻 I’m currently working on detecting transcription factor footprints in single-cell data. 👣
 - 🏢 I’m curenntly working at the Max-Delbrück-Centrum for molecular medicine in Berlin. 🧬
 - 🌱 I’m currently learning everything about data science and machine learning. 💻
-- 💬 Ask me about any sport and especially field hockey. 🏑
+- 💬 Talk to me about any sport and espically running. 🏃
+- ⚡ Fun fact: I am a field hockey referee. 🏑
 
 <!--
 **PascalWetzel/PascalWetzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,5 +26,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->

@@ -1,5 +1,5 @@
 <div align="center"> 
-  <p>Visitor count</p>
+  <p>$${\color{blue}Visitor \space count}$$</p>
   <img src="https://profile-counter.glitch.me/PascalWetzel/count.svg" alt="Visitor's Count" />
 </div>
 

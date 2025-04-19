@@ -3,10 +3,10 @@
   <img src="https://profile-counter.glitch.me/PascalWetzel/count.svg" alt="Visitor's Count" />
 </div>
 
-<img src="https://github.com/PascalWetzel/PascalWetzel/blob/main/github_banner_blue.png" alt="Banner of a bioinformatics PhD student">
+<img src="https://github.com/PascalWetzel/PascalWetzel/blob/main/github_banner_orange_blue.png" alt="Banner of a bioinformatics PhD student">
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=3CD6D1&duration=5000&lines=Hi+There!+👋;+I'm+Pascal!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=ffa500&duration=5000&lines=Hi+There!+👋;+I'm+Pascal!;" />
 </h1>
 
 ### I am a bioinformatics PhD student interested in gene regulation, data sience and machine learning.

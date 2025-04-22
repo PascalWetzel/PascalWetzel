@@ -17,6 +17,14 @@
 - 💬 Talk to me about any sport and espically running. 🏃
 - ⚡ Fun fact: I am a field hockey referee. 🏑
 
+## 🛠️ Languages and Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,r,bash,anaconda,git,github,sklearn,pytorch,tensorflow&perline=3" />
+  </a>
+</p>
+
 <!--
 **PascalWetzel/PascalWetzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

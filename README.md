@@ -17,6 +17,9 @@
 - 💬 Talk to me about any sport and espically running. 🏃
 - ⚡ Fun fact: I am a field hockey referee. 🏑
 
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PascalWetzel)
+[![Strava](https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white)](https://www.strava.com/athletes/62772532)
+
 ## 🛠️ Languages and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=python,r,bash,anaconda,git,github,sklearn,pytorch,tensorflow&perline=3)](https://skillicons.dev)

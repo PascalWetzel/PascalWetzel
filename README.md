@@ -12,12 +12,14 @@
 ### I am a bioinformatics PhD student interested in gene regulation, data sience and machine learning.
 
 - 👨‍💻 I’m currently working on detecting transcription factor footprints in single-cell data. 👣
-- 🏢 I’m curenntly working at the Max-Delbrück-Centrum for molecular medicine in Berlin. 🧬
+- 🏢 I’m curenntly working at the Max-Delbrück-Centrum for Molecular Medicine in Berlin. 🧬
 - 🌱 I’m currently learning everything about data science and machine learning. 💻
 - 💬 Talk to me about any sport and espically running. 🏃
 - ⚡ Fun fact: I am a field hockey referee. 🏑
+- 📫 How to reach me: [pascal.wetzel@mdc-berlin.de](mailto:pascal.wetzel@mdc-berlin.de)
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PascalWetzel)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/pascalwetzel)
 [![Strava](https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white)](https://www.strava.com/athletes/62772532)
 
 ## 🛠️ Languages and Tools
@@ -37,6 +39,5 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -->

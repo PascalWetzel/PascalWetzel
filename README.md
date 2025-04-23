@@ -9,13 +9,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=ffa500&duration=5000&lines=Hi+There!+👋;+I'm+Pascal!;" />
 </h1>
 
-### I am a bioinformatics PhD student interested in gene regulation, data sience and machine learning.
+### I am a Bioinformatics PhD student passionate about gene regulation, data science and machine learning.
 
-- 👨‍💻 I’m currently working on detecting transcription factor footprints in single-cell data. 👣
-- 🏢 I’m curenntly working at the Max-Delbrück-Centrum for Molecular Medicine in Berlin. 🧬
-- 🌱 I’m currently learning everything about data science and machine learning. 💻
-- 💬 Talk to me about any sport and espically running. 🏃
-- ⚡ Fun fact: I am a field hockey referee. 🏑
+- 👨‍💻 Currently working on detecting transcription factor footprints in single-cell data. 👣
+- 🏢 Based at the Max Delbrück Center for Molecular Medicine in Berlin. 🧬
+- 🌱 Always learning — at the moment mainly about the latest trends in data science and ML! 💻
+- 💬 Love talking about sports, especially running. 🏃
+- ⚡ Fun fact: I’m also a field hockey referee. 🏑
 - 📫 How to reach me: [pascal.wetzel@mdc-berlin.de](mailto:pascal.wetzel@mdc-berlin.de)
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PascalWetzel)

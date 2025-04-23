@@ -6,7 +6,7 @@
 <img src="https://github.com/PascalWetzel/PascalWetzel/blob/main/Banner/github_banner_orange_blue.png" alt="Banner of a bioinformatics PhD student">
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=ffa500&duration=5000&lines=Hi+There!+👋;+I'm+Pascal!;" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&size=48&duration=5000&pause=1000&color=FFA500&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Pascal!" />
 </h1>
 
 ### I am a Bioinformatics PhD student passionate about gene regulation, data science and machine learning.
@@ -24,10 +24,66 @@
 
 ## 🛠️ Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,r,bash,anaconda,git,github,sklearn,pytorch,tensorflow&perline=3)](https://skillicons.dev)
+<!-- Row 1 -->
+<p align="left">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+  </a>
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50"/>
+  </a>
+  <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="50"/>
+  </a>
+</p>
+
+<!-- Row 2 -->
+<p align="left">
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+  </a>
+</p>
+
+<!-- Row 3 -->
+<p align="left">
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50"/>
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50"/>
+  </a>
+  <a href="https://keras.io/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="50"/>
+  </a>
+</p>
+
+<!-- Row 4 -->
+<p align="left">
+  <a href="https://www.kaggle.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="50"/>
+  </a>
+  <a href="https://snakemake.github.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/snakemake/snakemake-workflow-catalog/main/logo-snake.svg" width="50"/>
+  </a>
+  <a href="https://www.nextflow.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/nextflow-io/trademark/master/nextflow-icon.svg" width="50"/>
+  </a>
+</p>
+
 
 <!--
 **PascalWetzel/PascalWetzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![My Skills](https://skillicons.dev/icons?i=python,r,bash,anaconda,git,github,sklearn,pytorch,tensorflow&perline=3)](https://skillicons.dev)
 
 <p align="center">
   <a href="https://skillicons.dev">

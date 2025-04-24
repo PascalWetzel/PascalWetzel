@@ -22,50 +22,66 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/pascalwetzel)
 [![Strava](https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white)](https://www.strava.com/athletes/62772532)
 
-## 🛠️ Languages and Tools
+## 🛠️ Languages, Tools & Skills
 
-<!-- Row 1 -->
-<p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/></a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50"/></a>
-  <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="50"/></a>
+<!-- Programming Languages -->
+<p>
+  <a href="https://www.python.org/" title="Python" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" /></a>
+  <a href="https://www.r-project.org/" title="R" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="50" /></a>
+  <a href="https://www.java.com/" title="Java" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" /></a>
+  <a href="https://isocpp.org/" title="C++" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" /></a>
+  <a href="https://www.gnu.org/software/bash/" title="Bash" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="50" /></a>
+  <a href="https://www.haskell.org/" title="Haskell" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" width="50" />
+  </a>
 </p>
 
-<!-- Row 2 -->
-<p align="left">
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/></a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/></a>
+<!-- Platforms & Tools -->
+<p>
+  <a href="https://www.linux.org/" title="Linux" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" /></a>
+  <a href="https://ubuntu.com/" title="Ubuntu" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="50" /></a>
+  <a href="https://www.anaconda.com/" title="Anaconda" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="50" /></a>
+  <a href="https://jupyter.org/" title="Jupyter" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="50" /></a>
+  <a href="https://git-scm.com/" title="Git" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" /></a>
+  <a href="https://github.com/" title="GitHub" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" /></a>
+  <a href="https://www.latex-project.org/" title="LaTeX" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="50" /></a>
+  <a href="https://www.overleaf.com/" title="Overleaf" target="_blank">
+    <img src="https://images.ctfassets.net/nrgyaltdicpt/451Wbu94Q1X3M5QIk74QLL/08e42061e965fb152a329ded74cdc3ce/overleaf-o-logo-primary.svg" width="50" /></a>
 </p>
 
-<!-- Row 3 -->
-<p align="left">
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50"/></a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50"/></a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50"/></a>
-  <a href="https://keras.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="50"/></a>
+<!-- Data Science / ML -->
+<p>
+  <a href="https://scikit-learn.org/" title="Scikit-learn" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="50" /></a>
+  <a href="https://pytorch.org/" title="PyTorch" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="50" /></a>
+  <a href="https://www.tensorflow.org/" title="TensorFlow" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="50" /></a>
+  <a href="https://keras.io/" title="Keras" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" width="50" /></a>
+  <a href="https://www.kaggle.com/" title="Kaggle" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" width="50" /></a>
 </p>
 
-<!-- Row 4 -->
-<p align="left">
-  <a href="https://www.kaggle.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="50"/></a>
-  <a href="https://snakemake.github.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/snakemake/snakemake-workflow-catalog/main/logo-snake.svg" width="50"/></a>
-  <a href="https://www.nextflow.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/nextflow-io/trademark/master/nextflow-icon.svg" width="50"/></a>
+<!-- Workflow Tools -->
+<p>
+  <a href="https://snakemake.github.io/" title="Snakemake" target="_blank">
+    <img src="https://raw.githubusercontent.com/snakemake/snakemake-workflow-catalog/main/logo-snake.svg" width="50" /></a>
+  <a href="https://www.nextflow.io/" title="Nextflow" target="_blank">
+    <img src="https://raw.githubusercontent.com/nextflow-io/trademark/master/nextflow-icon.svg" width="50" /></a>
 </p>
-
 
 <!--
 **PascalWetzel/PascalWetzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

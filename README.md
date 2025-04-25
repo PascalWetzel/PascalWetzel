@@ -36,8 +36,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" /></a>
   <a href="https://www.gnu.org/software/bash/" title="Bash" target="_blank">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://d33wubrfki0l68.cloudfront.net/7c8561d6a2795e512d1f3165ed7edd9405419968/ad392/img/symbol/svg/full_colored_light.svg" height="50">
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gnubash/FFFFFF" width="50">
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width=50>
       <img alt="Bash logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="50">
     </picture></a>
   <a href="https://www.haskell.org/" title="Haskell" target="_blank">
@@ -57,14 +57,16 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="50" /></a>
   <a href="https://git-scm.com/" title="Git" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" /></a>
-  <a href="https://github.com/" title="GitHub" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" /></a>
    <a href="https://github.com/" title="GitHub" target="_blank">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
-      <img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50">
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff" width="50">
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50">
+      <img alt="GitHub logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50">
     </picture></a>
+  <a href="https://www.latex-project.org/" title="LaTeX" target="_blank">
+    <img src="https://img.icons8.com/color/512/latex.png" width="50" /></a>
+   <a href="https://www.latex-project.org/" title="LaTeX" target="_blank">
+    <img src="https://raw.githubusercontent.com/latex3/branding/master/latex-project_logo/material/hummingbird.svg" height="50" /></a>
   <a href="https://www.latex-project.org/" title="LaTeX" target="_blank">
     <img src="https://www.ub.ruhr-uni-bochum.de/files/unibibliothek-bochum-template/img/logos-icons/latex-hummingbird.svg" height="50" /></a>
   <a href="https://www.overleaf.com/" title="Overleaf" target="_blank">

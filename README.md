@@ -95,6 +95,8 @@
 **PascalWetzel/PascalWetzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <a href="https://www.latex-project.org/" title="LaTeX" target="_blank">
+    <img src="https://github.com/loganmarchione/homelab-svg-assets/blob/main/assets/latex.svg" height="50" /></a>
+<a href="https://www.latex-project.org/" title="LaTeX" target="_blank">
     <img src="https://img.icons8.com/color/512/latex.png" width="50" /></a>
   <a href="https://www.latex-project.org/" title="LaTeX" target="_blank">
     <img src="https://cdn.simpleicons.org/latex/008080zz" width="50" /></a>

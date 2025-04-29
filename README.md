@@ -20,6 +20,7 @@
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PascalWetzel)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/pascalwetzel)
+[![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03EF62)](https://www.datacamp.com)
 [![Strava](https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white)](https://www.strava.com/athletes/62772532)
 
 ## 🛠️ Languages, Tools & Skills
@@ -93,6 +94,9 @@
 
 <!--
 **PascalWetzel/PascalWetzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Datacamp](https://img.shields.io/badge/Datacamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=000000)](https://www.datacamp.com)
+[![Codingame](https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codingame&logoColor=white)](https://www.codingame.com/start/)
 
 <a href="https://www.latex-project.org/" title="LaTeX" target="_blank">
     <img src="https://github.com/loganmarchione/homelab-svg-assets/blob/main/assets/latex.svg" height="50" /></a>

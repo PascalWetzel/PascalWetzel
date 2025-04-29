@@ -56,6 +56,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="50" /></a>
   <a href="https://jupyter.org/" title="Jupyter" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="50" /></a>
+  <a href="https://colab.research.google.com/" title="Colab" target="_blank">
+    <img src="https://unpkg.com/@lobehub/icons-static-svg@1.46.0/icons/colab-color.svg" width="50" /></a>
   <a href="https://git-scm.com/" title="Git" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" /></a>
    <a href="https://github.com/" title="GitHub" target="_blank">
@@ -97,6 +99,11 @@
 
 [![Datacamp](https://img.shields.io/badge/Datacamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=000000)](https://www.datacamp.com)
 [![Codingame](https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codingame&logoColor=white)](https://www.codingame.com/start/)
+
+<a href="https://colab.research.google.com/" title="Colab" target="_blank">
+    <img src="https://img.icons8.com/color/500/google-colab.png" width="50" /></a>
+  <a href="https://colab.research.google.com/" title="Colab" target="_blank">
+    <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-svg/icons/colab-color.svg" width="50" /></a>
 
 <a href="https://www.latex-project.org/" title="LaTeX" target="_blank">
     <img src="https://github.com/loganmarchione/homelab-svg-assets/blob/main/assets/latex.svg" height="50" /></a>

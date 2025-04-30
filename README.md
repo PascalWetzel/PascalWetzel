@@ -18,10 +18,10 @@
 - ⚡ Fun fact: I’m also a field hockey referee. 🏑
 - 📫 How to reach me: [pascal.wetzel@mdc-berlin.de](mailto:pascal.wetzel@mdc-berlin.de)
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PascalWetzel)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/pascalwetzel)
-[![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03EF62)](https://www.datacamp.com)
-[![Strava](https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white)](https://www.strava.com/athletes/62772532)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PascalWetzel "GitHub")
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/pascalwetzel "Kaggle")
+[![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03EF62)](https://www.datacamp.com "Datacamp")
+[![Strava](https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white)](https://www.strava.com/athletes/62772532 "Strava")
 
 ## 🛠️ Languages, Tools & Skills
 

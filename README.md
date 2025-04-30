@@ -103,6 +103,9 @@
     <img src="https://raw.githubusercontent.com/nextflow-io/trademark/master/nextflow-icon.svg" width="50" /></a>
 </p>
 
+<!--
+**PascalWetzel/PascalWetzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 ## ⚡️ Stats
 
 <br>
@@ -112,9 +115,6 @@
 </div>
 
 <hr>
-
-<!--
-**PascalWetzel/PascalWetzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 [![Datacamp](https://img.shields.io/badge/Datacamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=000000)](https://www.datacamp.com)
 [![Codingame](https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codingame&logoColor=white)](https://www.codingame.com/start/)

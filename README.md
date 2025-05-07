@@ -111,7 +111,12 @@
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pascalwetzel&theme=sunset-gradient&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 </div>
 
-<hr>
+## 📈 Contributions Graph
+
+<div align=center>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph" title="Contributions Graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=PascalWetzel&theme=elegant&title_color=FFA500&line=FFA500&point=800080" alt="Pascal Wetzel's github activity graph" /></a>
+</div>
 
 <!--
 **PascalWetzel/PascalWetzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -125,6 +130,8 @@
 </div>
 
 <hr>
+
+[![Pascal Wetzel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PascalWetzel&theme=elegant&title_color=FFA500&line=FFA500&point=800080)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![Datacamp](https://img.shields.io/badge/Datacamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=000000)](https://www.datacamp.com)
 [![Codingame](https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codingame&logoColor=white)](https://www.codingame.com/start/)

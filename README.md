@@ -108,7 +108,10 @@
 <br>
 
 <div align=center>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pascalwetzel&theme=sunset-gradient&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=pascalwetzel&show_icons=true&theme=ambient_gradient" alt="GitHub stats" /></a>
+  <a href="https://git.io/streak-stats" title="GitHub streak">
+    <img src="https://streak-stats.demolab.com?user=pascalwetzel&theme=sunset-gradient&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub streak" /></a>
 </div>
 
 ## 📈 Contributions Graph
@@ -130,6 +133,9 @@
 </div>
 
 <hr>
+
+
+[![Pascal's GitHub stats](https://github-readme-stats.vercel.app/api?username=pascalwetzel&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Pascal Wetzel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PascalWetzel&theme=elegant&title_color=FFA500&line=FFA500&point=800080)](https://github.com/ashutosh00710/github-readme-activity-graph)
 

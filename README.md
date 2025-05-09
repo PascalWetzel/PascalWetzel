@@ -118,7 +118,7 @@
 
 <div align=center>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph" title="Contributions Graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=PascalWetzel&theme=elegant&title_color=FFA500&line=FFA500&point=FFFFFF&bg_color=a11477" alt="Pascal Wetzel's github activity graph" /></a>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=PascalWetzel&theme=elegant&title_color=FFFFFF&line=FFA500&point=FFFFFF&bg_color=a11477" alt="Pascal Wetzel's github activity graph" /></a>
 </div>
 
 <!--

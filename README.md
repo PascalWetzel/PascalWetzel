@@ -108,11 +108,11 @@
 <br>
 
 <div align=center>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub stats">
+  <a href="https://github-readme-stats.vercel.app/api?username=pascalwetzel&show_icons=true&theme=ambient_gradient&bg_color=a11477,c1246b,e13661,fd4c55,ff6f4b,dc4d01" alt="GitHub stats" title="GitHub stats">
     <img src="https://github-readme-stats.vercel.app/api?username=pascalwetzel&show_icons=true&theme=ambient_gradient&bg_color=a11477,c1246b,e13661,fd4c55,ff6f4b,dc4d01" alt="GitHub stats" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Top language">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=pascalwetzel&layout=donut-vertical&theme=ambient_gradient&bg_color=a11477,c1246b,e13661,fd4c55,ff6f4b,dc4d01" title="Top languages">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pascalwetzel&layout=donut-vertical&theme=ambient_gradient&bg_color=a11477,c1246b,e13661,fd4c55,ff6f4b,dc4d01" alt="Language stats" /></a>
-  <a href="https://git.io/streak-stats" title="GitHub streak">
+  <a href="https://streak-stats.demolab.com?user=pascalwetzel&theme=sunset-gradient&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" title="GitHub streak">
     <img src="https://streak-stats.demolab.com?user=pascalwetzel&theme=sunset-gradient&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub streak" /></a>
 </div>
 

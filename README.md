@@ -115,7 +115,7 @@
   <a href="https://git.io/streak-stats" title="GitHub streak">
     <img src="https://streak-stats.demolab.com?user=pascalwetzel&theme=sunset-gradient&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub streak" /></a>
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 📈 Contributions Graph
 
 <div align=center>
@@ -136,6 +136,7 @@
 
 <hr>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Pascal's GitHub stats](https://github-readme-stats.vercel.app/api?username=pascalwetzel&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 

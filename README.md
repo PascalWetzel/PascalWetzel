@@ -116,6 +116,17 @@
     <img src="https://streak-stats.demolab.com?user=pascalwetzel&theme=sunset-gradient&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub streak" /></a>
 </div>
 
+## 🐍 My Contributions
+
+<div align="center">
+  <a href="https://raw.githubusercontent.com/pascalwetzel/pascalwetzel/output/github-contribution-grid-snake.svg" title="GitHub contribution snake" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pascalwetzel/pascalwetzel/output/github-contribution-grid-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pascalwetzel/pascalwetzel/output/github-contribution-grid-snake.svg" />
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pascalwetzel/pascalwetzel/output/github-contribution-grid-snake.svg" />
+    </picture></a>
+</div>
+
 ## 📈 Contributions Graph
 
 <div align=center>

@@ -116,6 +116,13 @@
     <img src="https://streak-stats.demolab.com?user=pascalwetzel&theme=sunset-gradient&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub streak" /></a>
 </div>
 
+## 📈 Contributions Graph
+
+<div align=center>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph" title="Contributions Graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=PascalWetzel&theme=elegant&title_color=FFFFFF&line=FFA500&point=FFFFFF&bg_color=a11477" alt="Pascal Wetzel's github activity graph" /></a>
+</div>
+
 ## 🐍 My Contributions
 
 <div align="center">
@@ -125,13 +132,6 @@
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pascalwetzel/pascalwetzel/output/github-contribution-grid-snake.svg" />
       <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pascalwetzel/pascalwetzel/output/github-contribution-grid-snake.svg" />
     </picture></a>
-</div>
-
-## 📈 Contributions Graph
-
-<div align=center>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph" title="Contributions Graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=PascalWetzel&theme=elegant&title_color=FFFFFF&line=FFA500&point=FFFFFF&bg_color=a11477" alt="Pascal Wetzel's github activity graph" /></a>
 </div>
 
 <!--

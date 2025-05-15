@@ -1,7 +1,7 @@
 <div align="center"> 
   <p>$${\color{blue}Visitor \space count}$$</p>
   <img
-    src="https://profile-counter.glitch.me/PascalWetzel/count.svg" alt="Visitor's Count"
+    src="https://profile-counter.glitch.me/PascalWetzel/count.svg"
     alt="Visitor count"
     title="Visitor count" />
 </div>
@@ -133,6 +133,12 @@
       <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pascalwetzel/pascalwetzel/output/github-contribution-grid-snake.svg" />
     </picture></a>
 </div>
+
+<p align="center">
+  <a href="#----">
+    <img src="https://img.shields.io/badge/Back%20to%20Top-a11477?style=for-the-badge" alt="Back to top button" />
+  </a>
+</p>
 
 <!--
 **PascalWetzel/PascalWetzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,3 +1,4 @@
+<a name="top"></a>
 <div align="center"> 
   <p>$${\color{blue}Visitor \space count}$$</p>
   <img
@@ -135,7 +136,7 @@
 </div>
 
 <p align="center">
-  <a href="#----">
+  <a href="#top">
     <img src="https://img.shields.io/badge/Back%20to%20Top-a11477?style=for-the-badge" alt="Back to top button" />
   </a>
 </p>

@@ -14,7 +14,7 @@
 <h1 align="center">
     <img
       src="https://readme-typing-svg.demolab.com?font=Inter&size=48&duration=5000&pause=1000&color=FFA500&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Pascal!"
-      alt="Hi there! I'm a Pascal!"
+      alt="Hi there! I'm Pascal!"
       title="Hi there! I'm Pascal!"/>
 </h1>
 

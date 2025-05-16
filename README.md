@@ -19,6 +19,8 @@
     title="Hi there! I'm Pascal!"/>
 </div>
 
+## 👨‍🎓 About Me
+
 ### I am a Bioinformatics PhD student passionate about gene regulation, data science and machine learning.
 
 - 👨‍💻 Currently working on detecting transcription factor footprints in single-cell data. 👣

@@ -79,7 +79,7 @@
       <img alt="GitHub logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50">
     </picture></a>
   <a href="https://www.overleaf.com/" title="Overleaf" target="_blank">
-    <img src="https://images.ctfassets.net/nrgyaltdicpt/451Wbu94Q1X3M5QIk74QLL/08e42061e965fb152a329ded74cdc3ce/overleaf-o-logo-primary.svg" height="50" /></a>
+    <img src="https://images.ctfassets.net/nrgyaltdicpt/451Wbu94Q1X3M5QIk74QLL/08e42061e965fb152a329ded74cdc3ce/overleaf-o-logo-primary.svg" width="43.1578947368" /></a>
   <a href="https://www.latex-project.org/" title="LaTeX" target="_blank">
     <img src="https://raw.githubusercontent.com/latex3/branding/master/latex-project_logo/material/hummingbird.svg" height="50" /></a>
 </p>

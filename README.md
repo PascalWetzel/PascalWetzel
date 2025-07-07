@@ -81,7 +81,7 @@
   <a href="https://www.overleaf.com/" title="Overleaf" target="_blank">
     <img src="https://images.ctfassets.net/nrgyaltdicpt/451Wbu94Q1X3M5QIk74QLL/08e42061e965fb152a329ded74cdc3ce/overleaf-o-logo-primary.svg" width="43.1578947368" /></a>
   <a href="https://www.latex-project.org/" title="LaTeX" target="_blank">
-    <img src="https://i.imgur.com/X7iWYLI.png" width="65.094339623" /></a>
+    <img src="https://raw.githubusercontent.com/PascalWetzel/PascalWetzel/8633e68dae1dfcf5bf46f4f6461565ca2fa4a043/logos/latex-hummingbird-cropped.svg" width="64.953271028" /></a>
 </p>
 
 <!-- Data Science / ML -->
@@ -180,6 +180,8 @@
     <img src="https://www.ub.ruhr-uni-bochum.de/files/unibibliothek-bochum-template/img/logos-icons/latex-hummingbird.svg" height="50" /></a>
   <a href="https://www.latex-project.org/" title="LaTeX" target="_blank">
     <img src="https://raw.githubusercontent.com/latex3/branding/master/latex-project_logo/material/hummingbird.svg" height="50" /></a>
+  <a href="https://www.latex-project.org/" title="LaTeX" target="_blank">
+    <img src="https://i.imgur.com/X7iWYLI.png" width="65.094339623" /></a>
 
 [![My Skills](https://skillicons.dev/icons?i=python,r,bash,anaconda,git,github,sklearn,pytorch,tensorflow&perline=3)](https://skillicons.dev)
 

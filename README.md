@@ -2,6 +2,11 @@
 <div align="center"> 
   <p>$${\color{blue}Visitor \space count}$$</p>
   <img
+    src="https://profile-counter.deno.dev/pascalwetzel/count.svg"
+    alt="Visitor count"
+    title="Visitor count" />
+  
+  <img
     src="https://profile-counter.glitch.me/PascalWetzel/count.svg"
     alt="Visitor count"
     title="Visitor count" />

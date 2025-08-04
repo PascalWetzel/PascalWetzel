@@ -58,6 +58,8 @@
       <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width=50>
       <img alt="Bash logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="50">
     </picture></a>
+  <a href="https://www.iso.org/standard/76583.html" title="SQL" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50" /></a>
   <a href="https://www.haskell.org/" title="Haskell" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" width="50" />
   </a>

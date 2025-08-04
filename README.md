@@ -103,6 +103,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" width="50" /></a>
   <a href="https://www.kaggle.com/" title="Kaggle" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" width="50" /></a>
+  <a href="https://huggingface.co/" title="Hugging Face" target="_blank">
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" /></a>
 </p>
 
 <!-- Workflow Tools -->

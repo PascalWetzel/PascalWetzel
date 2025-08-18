@@ -56,8 +56,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gnubash/FFFFFF" width="50">
       <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width=50>
-      <img alt="Bash logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="50">
-    </picture></a>
+      <img alt="Bash logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="50"></picture></a>
   <a href="https://www.iso.org/standard/76583.html" title="SQL" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50" /></a>
   <a href="https://www.haskell.org/" title="Haskell" target="_blank">
@@ -83,8 +82,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff" width="50">
       <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50">
-      <img alt="GitHub logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50">
-    </picture></a>
+      <img alt="GitHub logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50"></picture></a>
   <a href="https://www.overleaf.com/" title="Overleaf" target="_blank">
     <img src="https://images.ctfassets.net/nrgyaltdicpt/451Wbu94Q1X3M5QIk74QLL/08e42061e965fb152a329ded74cdc3ce/overleaf-o-logo-primary.svg" width="43.1578947368" /></a>
   <a href="https://www.latex-project.org/" title="LaTeX" target="_blank">

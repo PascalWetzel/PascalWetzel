@@ -6,10 +6,12 @@
     alt="Visitor count"
     title="Visitor count" />
   
+  <!--
   <img
     src="https://profile-counter.glitch.me/PascalWetzel/count.svg"
     alt="Visitor count"
     title="Visitor count" />
+  -->  
 </div>
 
 <div align="center">

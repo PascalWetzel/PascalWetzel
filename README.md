@@ -102,6 +102,15 @@
     <img src="https://raw.githubusercontent.com/nextflow-io/trademark/master/nextflow-icon.svg" width="50" /></a>
 </p>
 
+<!-- Coding AI -->
+<p>
+  <a href="https://claude.com/product/claude-code" title="Claude Code" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/claudecode-color.svg" width="50" /></a>
+  <a href="https://chatgpt.com/codex/" title="Codex" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/codex-color.svg" width="50" /></a>
+</p>
+
+
 ## ⚡️ Stats
 
 <br>

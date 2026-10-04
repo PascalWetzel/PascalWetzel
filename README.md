@@ -74,6 +74,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="50" /></a>
   <a href="https://www.anaconda.com/" title="Anaconda" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="50" /></a>
+  <a href="https://code.visualstudio.com/" title="Visual Studio Code" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" /></a>
   <a href="https://jupyter.org/" title="Jupyter" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="50" /></a>
   <a href="https://colab.research.google.com/" title="Colab" target="_blank">

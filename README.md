@@ -1,19 +1,4 @@
 <a name="top"></a>
-<div align="center"> 
-  <p>$${\color{blue}Visitor \space count}$$</p>
-  <img
-    src="https://profile-counter.deno.dev/pascalwetzel/count.svg"
-    alt="Visitor count"
-    title="Visitor count" />
-  
-  <!--
-  <img
-    src="https://profile-counter.glitch.me/PascalWetzel/count.svg"
-    alt="Visitor count"
-    title="Visitor count" />
-  -->  
-</div>
-
 <div align="center">
   <img 
     src="https://github.com/PascalWetzel/PascalWetzel/blob/main/Banner/github_banner_orange_blue.png" 
@@ -153,6 +138,21 @@
     <img src="https://img.shields.io/badge/Back%20to%20Top-a11477?style=for-the-badge" alt="Back to top button" />
   </a>
 </p>
+
+<div align="center"> 
+  <p>$${\color{blue}Visitor \space count}$$</p>
+  <img
+    src="https://profile-counter.deno.dev/pascalwetzel/count.svg"
+    alt="Visitor count"
+    title="Visitor count" />
+  
+  <!--
+  <img
+    src="https://profile-counter.glitch.me/PascalWetzel/count.svg"
+    alt="Visitor count"
+    title="Visitor count" />
+  -->  
+</div>
 
 <!--
 **PascalWetzel/PascalWetzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
